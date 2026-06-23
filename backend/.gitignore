@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Memory files (too large + user-specific, regenerates automatically)
+backend/memory/faiss_index.bin
+backend/memory/memory_records.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/

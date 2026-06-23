@@ -1,0 +1,9 @@
+faiss-cpu
+sentence-transformers
+requests
+numpy
+pickle-mixin
+
+flask
+groq
+python-dotenv
